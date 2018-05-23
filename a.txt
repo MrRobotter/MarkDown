@@ -1,2 +1,6 @@
 i这是我写的第一个文本文件，a.tx
 这句话是yang分支写的。t
+
+
+
+master add a new text;
