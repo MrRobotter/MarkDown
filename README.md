@@ -84,7 +84,15 @@
 #### 使用GitHub仓库里的图片
 <br> 书写格式与使用网络图片一致，不同的是URL里面的写法。<br/>
 
-        https://github.com/ 你的用户名 / 你的项目名 / raw / 分支名 / 存放图片的文件夹 / 该文件夹下的图片
+        https://github.com/ 你的用户名 / 你的项目名 / raw / 分支名 / 存放图片的文件夹 / 该文件夹下的图片 如下所示：
 <br>
 
 ![image](https://github.com/MrRobotter/test/raw/develop/images/picture_1.jpeg "无人机")
+
+#### 给图片加上超链接
+<br>我们通常希望图片具有超链接功能，即点击图片进入一个指定的网页，那么可以写成这样<br/>
+
+    [![baidu]](http://baidu.com)
+    [baidu]:http://www.baidu.com/img/bdlogo.gif "百度logo" 效果如下：
+    
+[![baidu]](http://baidu.com)[baidu]:http://www.baidu.com/img/bdlogo.gif "百度logo"    
