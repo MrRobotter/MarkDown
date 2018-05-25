@@ -54,7 +54,8 @@
 欢迎大家关注[我的博客](https://github.com/MrRobotter)
 <br/>
 <br/>我们还可以给他加上一个鼠标鼠标悬停显示的文本。<br/>
-<br/>欢迎大家关注[我的博客](https://github.com/MrRobotter "查看详情")
+<br/>欢迎大家关注[我的博客](https://github.com/MrRobotter "查看详情")<br/>
+<br>即在URL之后 加个空格 用双引号括起来一个字符串。同样要注意这里是英文双引号。<br/>
 
 
 
