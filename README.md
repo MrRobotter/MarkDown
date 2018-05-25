@@ -96,8 +96,8 @@
     [baidu]:http://www.baidu.com/img/bdlogo.gif "百度logo" 效果如下：
     
 [![baidu]](http://baidu.com)
-[baidu]:http://www.baidu.com/img/bdlogo.gif "百度logo"   
+[baidu]:http://www.baidu.com/img/bdlogo.gif "百度logo"  `错误的，查询如何实现` 
 
 <a href="http://baidu.com">
-<img src="http://www.baidu.com/img/bdlogo.gif">
-</a>
+<img src="http://www.baidu.com/img/bdlogo.gif"> 
+</a>  `此处使用了HTML的a标签代替实现`
