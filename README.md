@@ -90,8 +90,14 @@
 ![image](https://github.com/MrRobotter/test/raw/develop/images/picture_1.jpeg "无人机")
 
 #### 给图片加上超链接
-<br>我们通常希望图片具有超链接功能，即点击图片进入一个指定的网页，那么可以写成这样<br/>
+<br>我们通常希望图片具有超链接功能，即点击图片进入一个指定的网页，那么可以写成这样<br/> `有问题，待研究`
 
     [![baidu]](http://baidu.com)
     [baidu]:http://www.baidu.com/img/bdlogo.gif "百度logo" 效果如下：
-![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
+    
+[![baidu]](http://baidu.com)
+[baidu]:http://www.baidu.com/img/bdlogo.gif "百度logo"   
+
+<a href="http://baidu.com">
+<img src="http://www.baidu.com/img/bdlogo.gif">
+</a>
