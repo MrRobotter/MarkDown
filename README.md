@@ -83,4 +83,5 @@
 ![avatar](https://avatars2.githubusercontent.com/u/32949039?s=400&u=5652794a3c34a025d97c9ae57bf100975545ec3c&v=4 "我的头像")<br/>
 #### 使用GitHub仓库里的图片
 <br> 书写格式与使用网络图片一致，不同的是URL里面的写法。<br/>
-    https://github.com/ 你的用户名 / 你的项目名 / raw / 分支名 / 存放图片的文件夹 / 该文件夹下的图片
+
+        https://github.com/ 你的用户名 / 你的项目名 / raw / 分支名 / 存放图片的文件夹 / 该文件夹下的图片
