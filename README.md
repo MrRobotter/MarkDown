@@ -100,4 +100,6 @@
 
 <a href="http://baidu.com">
 <img src="http://www.baidu.com/img/bdlogo.gif"> 
-</a>  `使用HTML的a标签代替`
+</a>  
+
+`使用HTML的a标签代替`
