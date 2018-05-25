@@ -9,7 +9,7 @@
 ## 二级标题
 ### 三级标题
 #### 四级标题
-#####五级标题
+##### 五级标题
 ###### 六级标题
 
 另外也可在文字下使用三个以上的“=”来表示一级标题或者三个“-”以上代表二级标题，亦称为大标题和中标题，分别与一级标题二级标题对应如：
@@ -103,3 +103,36 @@
 </a>  
 
 `使用HTML的a标签代替`
+### 插入代码片段
+
+<br>我们可以在代码的上一行和下一行使用 ```来表示 Tab键上方的键。要实现语法高亮在 ```之后加上相应的编程语言即可（忽略大小写）如<br/>
+
+    ```java
+    public  class Test{
+          private int a;
+          private int b;
+           public Test(int a,int b){
+                this.a=a;
+                this.b=b;
+                }
+          } //java
+    ```
+    ``` javascript
+     document.getElementById("myH1").innerHTML="Welocme to my firstPage";//javascipt
+    ```
+#### 实际显示效果：    
+
+```java
+public  class Test{
+    private int a;
+    private int b;
+    public Test(int a,int b){
+    this.a=a;
+    this.b=b;
+    }
+} //java
+```
+``` javascript
+ document.getElementById("myH1").innerHTML="Welocme to my firstPage";//javascipt
+```
+
